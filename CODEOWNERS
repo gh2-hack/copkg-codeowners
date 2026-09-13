@@ -1,0 +1,4 @@
+* @gh2-hack
+docs/ this-is-not-a-valid-owner-token
+*.js @@@badhandle
+/secret @nonexistent-user-zzz9
